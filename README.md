@@ -7,7 +7,7 @@
 ![GitHub open pull requests](https://img.shields.io:/github/issues-pr/LeoUpperThrower4/UniversalLineManager?style=for-the-badge)
 
 <!-- Alterar cover quando o projeto estiver 100% funcional -->
-<img src="img/cover.gif" alt="cover">
+<img src="img/cover.png" alt="cover">
 
 > Manages lines of people on attractions in the Universal Park
 
